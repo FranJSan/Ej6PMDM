@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SANCHEZFERNANDEZ 06</string>
+    <string name="btnReproducir">Web</string>
+    <string name="btnServer">Servidor</string>
+    <string name="btnExoPlayerWeb">ExoPlayer\n web</string>
+    <string name="btnExoPlayerServer">ExoPlayer\n server</string>
+
+    <string name="btnWebLand">Web</string>
+    <string name="btnServerLand">Servidor</string>
+    <string name="btnExoWebLand">ExoPlayer Web</string>
+    <string name="btnExoServerLand">ExoPlayer Server</string>
+
+</resources>
